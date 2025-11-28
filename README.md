@@ -1,4 +1,4 @@
-# Cypress POM - Parabank Automation Project
+# Cypress POM - ParaBank Automation Project
 
 ## Overview
 
